@@ -15,8 +15,15 @@
 
 <a href="https://nfgcord.com"><img src="assets/featured-nexus.svg" width="100%" alt="Nexus Forge Gaming — servers, voice, video and chat for gamers. Live at nfgcord.com, free to join."></a>
 
+<a name="ruin-gate-studios"></a>
+<a href="#ruin-gate-studios"><img src="assets/sec-ruingate.svg" width="100%" alt="02 — Sister studio: Ruin Gate Studios"></a>
+
+<a href="https://ruingatestudios.com/try.html"><img src="assets/ruingate.svg" width="100%" alt="Ruin Gate Studios — hosted CAD for FiveM roleplay: dispatch, records and courts. Try the CAD with no sign-up."></a>
+
+<a href="https://ruingatestudios.com/pricing.html"><img src="assets/ruingate-plans.svg" width="100%" alt="Ruin Gate CAD plans: Free $0, Base $20/month, Mid $50/month, High $150/month, Lifetime $600 one-time. 14-day trial on paid plans."></a>
+
 <a name="products"></a>
-<a href="#products"><img src="assets/sec-products.svg" width="100%" alt="02 — Our products"></a>
+<a href="#products"><img src="assets/sec-products.svg" width="100%" alt="03 — Our products"></a>
 
 <p align="center">
   <a href="https://github.com/Trhpruductions/trhai"><img src="assets/card-vexora.svg" width="49%" alt="Vexora AI — local-first AI workspace. Free to run."></a>
@@ -24,7 +31,7 @@
 </p>
 
 <a name="custom-builds"></a>
-<a href="#custom-builds"><img src="assets/sec-services.svg" width="100%" alt="03 — Custom builds"></a>
+<a href="#custom-builds"><img src="assets/sec-services.svg" width="100%" alt="04 — Custom builds"></a>
 
 <p align="center">
   <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/card-bots.svg" width="49%" alt="Custom Discord bots — from $75"></a>
@@ -33,15 +40,15 @@
   <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/card-plans.svg" width="49%" alt="Rent or own a TRH bot — $30 a month or $499 once"></a>
 </p>
 
-<p align="center"><sub><b>LIVE BUILDS</b> &nbsp;·&nbsp; <a href="https://nfgcord.com">Nexus Forge Gaming</a> &nbsp;·&nbsp; <a href="https://retreats-website.retreats-official-website.workers.dev">The Retreats Community</a> &nbsp;·&nbsp; <a href="https://shadowsofruin.com">Shadows of Ruin</a></sub></p>
+<p align="center"><sub><b>LIVE BUILDS</b> &nbsp;·&nbsp; <a href="https://nfgcord.com">Nexus Forge Gaming</a> &nbsp;·&nbsp; <a href="https://ruingatestudios.com">Ruin Gate Studios</a> &nbsp;·&nbsp; <a href="https://retreats-website.retreats-official-website.workers.dev">The Retreats Community</a> &nbsp;·&nbsp; <a href="https://shadowsofruin.com">Shadows of Ruin</a></sub></p>
 
 <a name="packages"></a>
-<a href="#packages"><img src="assets/sec-pricing.svg" width="100%" alt="04 — Packages"></a>
+<a href="#packages"><img src="assets/sec-pricing.svg" width="100%" alt="05 — Packages"></a>
 
 <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/pricing.svg" width="100%" alt="Starter from $150 (1–2 weeks) · Growth from $750 (2–6 weeks) · Enterprise from $2,500 (1–3 months)"></a>
 
 <a name="add-ons"></a>
-<a href="#add-ons"><img src="assets/sec-addons.svg" width="100%" alt="05 — Add-ons and liveries"></a>
+<a href="#add-ons"><img src="assets/sec-addons.svg" width="100%" alt="06 — Add-ons and liveries"></a>
 
 <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/addons.svg" width="100%" alt="Add-on services and FiveM livery packages"></a>
 
@@ -71,6 +78,15 @@
 | Advanced | $20–$40 |
 | Premium | $40–$75+ |
 
+| Ruin Gate CAD plan | Price |
+| --- | --- |
+| Free (up to 15 members) | $0 |
+| Base | $20 / month |
+| Mid | $50 / month |
+| High | $150 / month |
+| Lifetime (self-hosted licence) | $600 one-time |
+| FiveM scripts | from $10 each, all 12 for $199 |
+
 | Bot access plan | Price |
 | --- | --- |
 | Monthly access | $30 / month |
@@ -79,12 +95,12 @@
 </details>
 
 <a name="how-to-order"></a>
-<a href="#how-to-order"><img src="assets/sec-order.svg" width="100%" alt="06 — How to order"></a>
+<a href="#how-to-order"><img src="assets/sec-order.svg" width="100%" alt="07 — How to order"></a>
 
 <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/steps.svg" width="100%" alt="Open a ticket, share the plan, get a quote, we build it"></a>
 
 <a name="toolkit"></a>
-<a href="#toolkit"><img src="assets/sec-toolkit.svg" width="100%" alt="07 — Our toolkit"></a>
+<a href="#toolkit"><img src="assets/sec-toolkit.svg" width="100%" alt="08 — Our toolkit"></a>
 
 <img src="assets/toolkit.svg" width="100%" alt="TypeScript, JavaScript, Node.js, React, Next.js, Electron, discord.js, Lua, QBCore and ESX, PostgreSQL, Prisma, Cloudflare, llama.cpp">
 
