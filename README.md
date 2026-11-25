@@ -1,6 +1,6 @@
 <a href="https://nfgcord.com"><img src="assets/announce.svg" width="100%" alt="New: Nexus Forge Gaming is in open beta. Join free at nfgcord.com."></a>
 
-<a href="https://discord.gg/JsFJTB79ZM"><img src="assets/hero.svg" width="100%" alt="TRH Development — custom Discord bots, websites, FiveM resources and software. Open for orders."></a>
+<a href="https://discord.gg/JsFJTB79ZM"><img src="assets/hero.svg" width="100%" alt="TRH Development — We build. You win. Custom bots, websites, game servers, apps and more. Open for orders."></a>
 
 <p align="center">
   <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/btn-order.svg" width="32%" alt="Order a custom build"></a>
@@ -88,6 +88,6 @@
 
 <img src="assets/toolkit.svg" width="100%" alt="TypeScript, JavaScript, Node.js, React, Next.js, Electron, discord.js, Lua, QBCore and ESX, PostgreSQL, Prisma, Cloudflare, llama.cpp">
 
-<a href="https://discord.gg/JsFJTB79ZM"><img src="assets/cta.svg" width="100%" alt="Got a project? Join the TRH Discord and open a ticket."></a>
+<a href="https://discord.gg/JsFJTB79ZM"><img src="assets/cta.svg" width="100%" alt="Got a project? Let's build something great. Join the TRH Discord and open a ticket."></a>
 
 <p align="center"><sub>© 2026 TRH Development &nbsp;·&nbsp; Prices are starting points — every quote is confirmed in your ticket.</sub></p>

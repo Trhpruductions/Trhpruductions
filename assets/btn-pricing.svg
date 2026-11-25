@@ -21,10 +21,10 @@
 @keyframes breathe{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.08);opacity:1}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <defs><linearGradient id="holo" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#5ff3ff"/><stop offset=".36" stop-color="#8b5cf6"/>
-  <stop offset=".7" stop-color="#ff4fd8"/><stop offset="1" stop-color="#ffb547"/></linearGradient>
+  <stop offset="0" stop-color="#c6ff4a"/><stop offset=".5" stop-color="#22ff5a"/>
+  <stop offset="1" stop-color="#12b93c"/></linearGradient>
 <linearGradient id="shineg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#120f22"/><stop offset="1" stop-color="#0d0b19"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e1518"/><stop offset="1" stop-color="#0b1113"/></linearGradient>
 <clipPath id="bc"><rect width="276" height="58" rx="15"/></clipPath></defs>
-<rect width="276" height="58" rx="15" fill="#100d1f"/><rect x=".75" y=".75" width="274.5" height="56.5" rx="14.25" fill="none" stroke="url(#holo)" stroke-width="1.5"/><path d="M42.200103759765625 28V19h9l10 10-9 9z" fill="none" stroke="#5ff3ff" stroke-width="2.2" stroke-linejoin="round"/><circle cx="47.00010375976562" cy="23.8" r="1.8" fill="#5ff3ff"/><text class="d" x="76.20010375976562" y="35" font-weight="800" font-size="16.5" letter-spacing="1.8" fill="#f5f3ff">PACKAGES &amp; PRICES</text><g clip-path="url(#bc)"><rect class="shine" x="-300" y="-20" width="160" height="98" fill="url(#shineg)" transform="skewX(-18)" style="animation-delay:1.2s"/></g>
+<rect width="276" height="58" rx="15" fill="#0b1113"/><rect x=".75" y=".75" width="274.5" height="56.5" rx="14.25" fill="none" stroke="url(#holo)" stroke-width="1.5"/><path d="M42.200103759765625 28V19h9l10 10-9 9z" fill="none" stroke="#3ad9ff" stroke-width="2.2" stroke-linejoin="round"/><circle cx="47.00010375976562" cy="23.8" r="1.8" fill="#3ad9ff"/><text class="d" x="76.20010375976562" y="35" font-weight="800" font-size="16.5" letter-spacing="1.8" fill="#f4fbf6">PACKAGES &amp; PRICES</text><g clip-path="url(#bc)"><rect class="shine" x="-300" y="-20" width="160" height="98" fill="url(#shineg)" transform="skewX(-18)" style="animation-delay:1.2s"/></g>
 </svg>
