@@ -1,6 +1,6 @@
 <a href="https://nfgcord.com"><img src="assets/announce.svg" width="100%" alt="New: Nexus Forge Gaming is in open beta. Join free at nfgcord.com."></a>
 
-<a href="https://discord.gg/JsFJTB79ZM"><img src="assets/hero.svg" width="100%" alt="TRH Development — We build. You win. Custom bots, websites, game servers, apps and more. Open for orders."></a>
+<a href="https://discord.gg/JsFJTB79ZM"><img src="assets/hero.svg" width="100%" alt="TRH Development, a Ruin Gate Studios company — We build. You win. Custom bots, websites, game servers, apps and more. Open for orders."></a>
 
 <p align="center">
   <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/btn-order.svg" width="32%" alt="Order a custom build"></a>
@@ -16,9 +16,9 @@
 <a href="https://nfgcord.com"><img src="assets/featured-nexus.svg" width="100%" alt="Nexus Forge Gaming — servers, voice, video and chat for gamers. Live at nfgcord.com, free to join."></a>
 
 <a name="ruin-gate-studios"></a>
-<a href="#ruin-gate-studios"><img src="assets/sec-ruingate.svg" width="100%" alt="02 — Sister studio: Ruin Gate Studios"></a>
+<a href="#ruin-gate-studios"><img src="assets/sec-ruingate.svg" width="100%" alt="02 — Our parent studio: Ruin Gate Studios"></a>
 
-<a href="https://ruingatestudios.com/try.html"><img src="assets/ruingate.svg" width="100%" alt="Ruin Gate Studios — hosted CAD for FiveM roleplay: dispatch, records and courts. Try the CAD with no sign-up."></a>
+<a href="https://ruingatestudios.com/try.html"><img src="assets/ruingate.svg" width="100%" alt="Ruin Gate Studios — the gaming studio and script developer TRH Development is part of. Try Ruin Gate CAD with no sign-up."></a>
 
 <a href="https://ruingatestudios.com/pricing.html"><img src="assets/ruingate-plans.svg" width="100%" alt="Ruin Gate CAD plans: Free $0, Base $20/month, Mid $50/month, High $150/month, Lifetime $600 one-time. 14-day trial on paid plans."></a>
 
@@ -106,4 +106,4 @@
 
 <a href="https://discord.gg/JsFJTB79ZM"><img src="assets/cta.svg" width="100%" alt="Got a project? Let's build something great. Join the TRH Discord and open a ticket."></a>
 
-<p align="center"><sub>© 2026 TRH Development &nbsp;·&nbsp; Prices are starting points — every quote is confirmed in your ticket.</sub></p>
+<p align="center"><sub>© 2026 TRH Development, a <a href="https://ruingatestudios.com">Ruin Gate Studios</a> company &nbsp;·&nbsp; Prices are starting points — every quote is confirmed in your ticket.</sub></p>
